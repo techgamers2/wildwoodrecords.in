@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -10,7 +10,8 @@
     <link href="img/favicon.png" rel="icon">
     <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i%7CPoppins:300,400,500,700"
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i%7CPoppins:300,400,500,700"
+
       rel="stylesheet">
     <!-- Bootstrap CSS File -->
     <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -25,7 +26,8 @@
   Header  ============================-->
     <header id="header">
       <div class="container">
-        <div id="logo" class="pull-left"> <a href="#hero"><img src="img/Wildwood_Logo.png"
+        <div id="logo" class="pull-left"> <a href="#hero"><img src="img/Wildwood_Logo.png"
+
               alt="" class="img-responsive img-rounded" title="" width="38"></a>
           <!-- Uncomment below if you prefer to use a text logo -->
           <!--<h1><a href="#hero">Regna</a></h1>--> </div>
@@ -66,7 +68,8 @@
       <div class="hero-container">
         <h1>Wildwood &nbsp;records</h1>
         <h2>We are music company in search of new talents .</h2>
-        <a href="https://www.youtube.com/channel/UC_n4MvIept-0kK83Q_EEfOw?sub_confirmation=1"
+        <a href="https://www.youtube.com/channel/UC_n4MvIept-0kK83Q_EEfOw?sub_confirmation=1"
+
           class="btn-get-started" target="_blank">Subscribe Us</a> </div>
     </section>
     <!-- #hero -->
@@ -151,7 +154,8 @@
               <p class="cta-text">" Music and Rhythm find their way into the<br>
                 secret places of soul ".</p>
             </div>
-            <div class="col-lg-3 cta-btn-container text-center"> <a class="cta-btn align-middle"
+            <div class="col-lg-3 cta-btn-container text-center"> <a class="cta-btn align-middle"
+
                 href="">~ plato</a> </div>
           </div>
         </div>
@@ -168,7 +172,8 @@
           <div class="row">
             <div class="col-lg-12">
               <ul id="portfolio-flters">
-                <li data-filter=".filter-app, .filter-card, .filter-logo, .filter-web"
+                <li data-filter=".filter-app, .filter-card, .filter-logo, .filter-web"
+
                   class="filter-active">latest video</li>
                 <li data-filter=".filter-app">collab</li>
               </ul>
@@ -176,8 +181,10 @@
           </div>
           <div class="row" id="portfolio-wrapper">
             <div class="col-lg-8 col-md-10 portfolio-item filter-app" style="height: 324px;">
-              <a href="#"> </a><iframe src="https://www.youtube.com/embed/wPDeMwLO0po"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              <a href="#"> </a><iframe src="https://www.youtube.com/embed/wPDeMwLO0po"
+
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+
                 allowfullscreen="" height="100%" frameborder="0" width="100%"></iframe><br>
               <div class="details" style="top: 258px; height: 70px;">
                 <h4>XUNOYONA</h4>
@@ -201,7 +208,8 @@
                 <div class="pic"><img src="img/team-1.jpg" alt=""></div>
                 <h4>coming soon</h4>
                 <span>coming soon</span>
-                <div class="social"><a><em class="fa fa-twitter"></em></a> <a><em
+                <div class="social"><a><em class="fa fa-twitter"></em></a> <a><em
+
                       class="fa fa-facebook"></em></a> <a><em class="fa fa-instagram"></em></a>
                   <a></a></div>
               </div>
@@ -249,8 +257,10 @@
             <p>&nbsp;</p>
           </div>
         </div>
-        <!-- Uncomment below if you wan to use dynamic maps --> <iframe src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d229225.54440379355%212d91.56279726554581%213d26.14298086356402%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x375a5a287f9133ff%3A0x2bbd1332436bde32%212sGuwahati%2C%20Assam%215e0%213m2%211sen%212sin%214v1590137678991%215m2%211sen%212sin"
-          style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"
+        <!-- Uncomment below if you wan to use dynamic maps --> <iframe src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d229225.54440379355%212d91.56279726554581%213d26.14298086356402%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x375a5a287f9133ff%3A0x2bbd1332436bde32%212sGuwahati%2C%20Assam%215e0%213m2%211sen%212sin%214v1590137678991%215m2%211sen%212sin"
+
+          style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"
+
           height="380" frameborder="0" width="100%"></iframe>
         <div class="container wow fadeInUp mt-5">
           <div class="row justify-content-center">
@@ -268,8 +278,10 @@
                 </div>
               </div>
               <div class="social-links"> <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-                <a href="https://www.facebook.com/WildwoodRecords" class="facebook"
-                  target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/wildwood_records/"
+                <a href="https://www.facebook.com/WildwoodRecords" class="facebook"
+
+                  target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/wildwood_records/"
+
                   class="instagram" target="_blank"><i class="fa fa-instagram"></i></a>
               </div>
             </div>
@@ -278,22 +290,29 @@
                 <div id="sendmessage">Your message has been sent. Thank you!</div>
                 <div id="errormessage"></div>
                 <form action="" method="post" role="form" class="contactForm">
-                  <div class="form-group"> <input name="name" class="form-control"
-                      id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars"
+                  <div class="form-group"> <input name="name" class="form-control"
+
+                      id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars"
+
                       type="text">
                     <div class="validation"></div>
                   </div>
-                  <div class="form-group"> <input class="form-control" name="email"
-                      id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email"
+                  <div class="form-group"> <input class="form-control" name="email"
+
+                      id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email"
+
                       type="email">
                     <div class="validation"></div>
                   </div>
-                  <div class="form-group"> <input class="form-control" name="subject"
-                      id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject"
+                  <div class="form-group"> <input class="form-control" name="subject"
+
+                      id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject"
+
                       type="text">
                     <div class="validation"></div>
                   </div>
-                  <div class="form-group"> <textarea class="form-control" name="message"
+                  <div class="form-group"> <textarea class="form-control" name="message"
+
 rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                     <div class="validation"></div>
                   </div>
